@@ -1,0 +1,3 @@
+## Uncertainty Sets
+
+RHODES supports a range of modularized uncertainty sets. Please find the discussion of uncertainty sets in the [paper](https://ieeexplore.ieee.org/abstract/document/11617864). For interested readers, you can find further mathematical details on different types of uncertainty sets in the "[Robust and Adaptive Optimization](https://www.dynamic-ideas.com/books/robust-and-adaptive-optimization)" book by Dimitris Bertsimas and Dick Den Hertog.

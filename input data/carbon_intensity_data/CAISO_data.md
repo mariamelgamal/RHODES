@@ -1,0 +1,1 @@
+The carbon intensity data used in this repo were extracted from the [CAISO website here](https://www.caiso.com/). 
