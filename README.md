@@ -1,6 +1,6 @@
 # RHODES
 
-This is the repository for our ISCA 2026 paper ["RHODES: Robust Optimization for Uncertainty-Aware Design of CO2-Efficient Computing Systems"](https://ieeexplore.ieee.org/abstract/document/11617864).
+This is the repository for our ISCA 2026 paper "RHODES: Robust Optimization for Uncertainty-Aware Design of CO2-Efficient Computing Systems" ([PDF here](https://mariamelgamal.com/assets/pdf/RHODES_ISCA2026.pdf)).
 
 ## Repository structure
 
